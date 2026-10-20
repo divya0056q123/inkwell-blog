@@ -1,6 +1,6 @@
 # Inkwell
 
-A small full-stack blogging platform for publishing stories and having conversations around them.
+Inkwell is a full-stack writing community built with Node.js, Express, and SQLite. Publish and manage stories, save private drafts, explore by topic, and connect through comments, likes, and bookmarks. It includes user accounts, writer profiles, and a responsive multi-page interface.
 
 ## Features
 
